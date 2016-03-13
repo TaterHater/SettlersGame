@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CickTest.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TileData.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\MapSpawn2.cs" Line="14" Column="18" />
+      <File FileName="Assets\Scripts\CickTest.cs" Line="22" Column="26" />
+      <File FileName="..\..\GGJ\Assets\Scripts\Player_Move.cs" Line="110" Column="18" />
+      <File FileName="Assets\Scripts\townDetection.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
